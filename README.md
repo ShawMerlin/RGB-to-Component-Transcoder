@@ -1,4 +1,7 @@
-# Dek's RGB-to-Component-Transcoder
+# StackMaster RGB, A Fork of Dek's RGB-to_Component-Transcoder
+
+![image](https://user-images.githubusercontent.com/70423454/162394280-519028d0-e25e-4e3f-9d34-2b36ae6ae503.png)
+
 A DIY RGB to Component Video Transcoder to make your own video conversion boxes. 
 
 This schematic and associated PCB does not do any upscaling and is designed to support old CRT TVs that only have component video inputs (not RGB scart like in many european countries) and primarily as way to open up more output options for retro consoles using an external method (rather needing to directly modify the internal hardware).   
@@ -7,20 +10,11 @@ This schematic and associated PCB does not do any upscaling and is designed to s
 This schematic will not upscale a 240p signal. Many LCD tvs will not display a 240p picture through Component video in.
 
 
-New versions (schematic, pcb files, test results etc) can be found here in the code repository
+Original Project
 https://github.com/dekkit/RGB-to-Component-Transcoder
 
-Versions: 
-VA01  (initial prototype),
-VA02  (fixes, after initial tests),   
-VAxx  (future versions will be in their own folders)
 
-If you want to want to get a bunch of PCBs manufactured - simply use the latest GERBER zip (ie Gerber_PCB_2020-04-10 17_26_57.zip) file.  Most manufacturers will provide an instant quote and typically is only be a few dollars plus postage (postage is most expensive part).   Or  use the schematic to build your own breadboard version.
-
-Please feel free to copy, adapt and use as appropriate (public domain). If you do improve on this design, please provide an acknowledgement,  drop me a note / create an issue to let me know and share your results.
-
-If you would like to develop your own version (customised for your specific video device, make a smaller SMD version), or simply to poke around to help further your own understanding  (pick up on any errors too!) - I used the free app EasyEDA - I've opened up the project to make it easiser to clone and adapt (see https://easyeda.com/dekkit/rgb-to-component-transcoder)
-
+Please feel free to copy, adapt and use as appropriate (public domain). If you do improve on this design, please provide an acknowledgement to https://github.com/dekkit/
 
 Dek.
 29/5/2020
