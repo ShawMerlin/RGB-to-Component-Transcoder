@@ -1,6 +1,6 @@
 # StackMaster RGB, A Fork of Dek's RGB-to_Component-Transcoder
 
-![image](https://user-images.githubusercontent.com/70423454/162395866-3f495f75-8cf6-433c-830f-4ecb3bf68cfa.png)
+![image](https://user-images.githubusercontent.com/70423454/162424055-677f6134-469f-46bb-94fd-7ee8c555e4c3.png)
 
 https://www.facebook.com/GeekIslandGaming
 
