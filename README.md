@@ -1,6 +1,8 @@
 # StackMaster RGB, A Fork of Dek's RGB-to_Component-Transcoder
 
-![image](https://user-images.githubusercontent.com/70423454/162394280-519028d0-e25e-4e3f-9d34-2b36ae6ae503.png)
+![image](https://user-images.githubusercontent.com/70423454/162395866-3f495f75-8cf6-433c-830f-4ecb3bf68cfa.png)
+
+https://www.facebook.com/GeekIslandGaming
 
 A DIY RGB to Component Video Transcoder to make your own video conversion boxes. 
 
