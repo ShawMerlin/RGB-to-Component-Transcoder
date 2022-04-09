@@ -1,15 +1,17 @@
 # StackMaster RGB, A Fork of Dek's RGB-to_Component-Transcoder
 
-![image](https://user-images.githubusercontent.com/70423454/162424055-677f6134-469f-46bb-94fd-7ee8c555e4c3.png)
-
 Updated Features
 - USB C Power Input
 - Side Switch to change from Stereo Audio to Mono
 - Additional 9 Pin Gensis 2 RGB Input
 - 75Ohm on resistor line but option to go manual with a Pot
-- 
 
 https://www.facebook.com/GeekIslandGaming
+
+![image](https://user-images.githubusercontent.com/70423454/162424055-677f6134-469f-46bb-94fd-7ee8c555e4c3.png)
+
+
+
 
 A DIY RGB to Component Video Transcoder to make your own video conversion boxes. 
 
